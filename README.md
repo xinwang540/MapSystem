@@ -1,6 +1,5 @@
 # MapSystem · 交互式地图导航与虚拟街景系统
 
-> UID（User Interface Design）课程期末 Project 2
 > 仓库地址：https://github.com/xinwang540/MapSystem
 
 基于 MATLAB（uifigure 程序化 GUI）实现的交互式地图应用：以一张校园 / 园区平面图 `MapForUI.jpg` 为底图，支持手绘式道路网络提取、栅格最短路径规划、车辆（IV）投放与管理、距离 / 轨迹测量，以及由顶视地图实时渲染的第一视角虚拟街景。
